@@ -1,0 +1,48 @@
+.all_cards {
+  display: flex;
+  justify-content: center;
+  .spyros {
+    border: 3px solid green;
+  }
+  .card {
+    margin: 5%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.66);
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    img {
+      width: 50%;
+      margin: auto;
+    }
+    .text {
+      display: flex;
+      flex-direction: column;
+      padding: 2%;
+      .headCard {
+        display: flex;
+        justify-content: space-between;
+        h2 {
+          font-size: x-large;
+          font-family: "Madimi One", sans-serif;
+        }
+        .check {
+          display: flex;
+          padding: 2%;
+          margin: 2%;
+          .heart {
+            padding: 5%;
+          }
+        }
+      }
+      .info {
+        font-family: "Roboto Slab", serif;
+        display: flex;
+        flex-direction: column;
+        img {
+          width: 10vw;
+        }
+      }
+    }
+  }
+}

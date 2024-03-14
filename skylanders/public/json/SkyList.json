@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "title": "Zap",
+    "image": "/image/spyros/figures/zap.png",
+    "elem": "Eau",
+    "elemImg": "/image/elements/water.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/zap.png"
+  },
+  {
+    "id": "2",
+    "title": "Eruptor",
+    "image": "/image/spyros/figures/eruptor.png",
+    "elem": "Feu",
+    "elemImg": "/image/elements/fire.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/eruptor.png"
+  }
+]

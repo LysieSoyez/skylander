@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Madimi+One&family=Roboto+Slab:wght@100..900&display=swap");
+.all_cards {
+  display: flex;
+  justify-content: center;
+}
+.all_cards .spyros {
+  border: 3px solid green;
+}
+.all_cards .card {
+  margin: 5%;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.66);
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+}
+.all_cards .card img {
+  width: 50%;
+  margin: auto;
+}
+.all_cards .card .text {
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+}
+.all_cards .card .text .headCard {
+  display: flex;
+  justify-content: space-between;
+}
+.all_cards .card .text .headCard h2 {
+  font-size: x-large;
+  font-family: "Madimi One", sans-serif;
+}
+.all_cards .card .text .headCard .check {
+  display: flex;
+  padding: 2%;
+  margin: 2%;
+}
+.all_cards .card .text .headCard .check .heart {
+  padding: 5%;
+}
+.all_cards .card .text .info {
+  font-family: "Roboto Slab", serif;
+  display: flex;
+  flex-direction: column;
+}
+.all_cards .card .text .info img {
+  width: 10vw;
+}/*# sourceMappingURL=Index.css.map */

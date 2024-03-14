@@ -1,0 +1,9 @@
+{
+  "id": "x",
+  "title": "",
+  "image": "/image/spyros/figures/",
+  "elem": "",
+  "elemImg": "/image/element/",
+  "jeu": "",
+  "card":"/image/spyros/card/"
+}
