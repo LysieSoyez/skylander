@@ -30,8 +30,10 @@ function Card() {
                     </div>
                   </div>
                   <div className="info">
-                    <p className="jeu">{skylanders.jeu}</p>
-                    <p className="element">{skylanders.elem}</p>
+                    <div className="elemImg">
+                      <p className="jeu">{skylanders.jeu}</p>
+                      <p className="element">{skylanders.elem}</p>
+                    </div>
                     <img src={skylanders.elemImg} alt={skylanders.elem} />
                   </div>
                 </div>

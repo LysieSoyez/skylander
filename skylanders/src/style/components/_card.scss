@@ -1,6 +1,7 @@
 .all_cards {
   display: flex;
   justify-content: center;
+  flex-direction: column;
   .spyros {
     border: 3px solid green;
   }
@@ -8,17 +9,19 @@
     margin: 5%;
     border-radius: 5px;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.66);
-    width: 50vw;
+    height: 20vh;
     display: flex;
-    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
     img {
-      width: 50%;
-      margin: auto;
+      width: 30%;
+      margin: 2%;
     }
     .text {
       display: flex;
       flex-direction: column;
       padding: 2%;
+      width: 100%;
       .headCard {
         display: flex;
         justify-content: space-between;
@@ -36,11 +39,17 @@
         }
       }
       .info {
-        font-family: "Roboto Slab", serif;
         display: flex;
-        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-end;
         img {
-          width: 10vw;
+          height: fit-content;
+          margin: 0;
+        }
+        .elemImg {
+          font-family: "Roboto Slab", serif;
+          display: flex;
+          flex-direction: column;
         }
       }
     }
