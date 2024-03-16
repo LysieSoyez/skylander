@@ -1,9 +1,11 @@
+
 {
-  "id": "x",
-  "title": "",
-  "image": "/image/spyros/figures/",
-  "elem": "",
-  "elemImg": "/image/element/",
-  "jeu": "",
-  "card":"/image/spyros/card/"
-}
+    "id": "",
+    "title": "",
+    "image": "/image/spyros/figures/.png",
+    "elem": "",
+    "elemImg": "/image/elements/.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/.png"
+  }

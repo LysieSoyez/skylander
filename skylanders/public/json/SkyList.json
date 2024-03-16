@@ -1,6 +1,96 @@
 [
   {
     "id": "1",
+    "title": "Spyro",
+    "image": "/image/spyros/figures/spyro.png",
+    "elem": "Magie",
+    "elemImg": "/image/elements/magic.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/spyro.png"
+  },
+  {
+    "id": "2",
+    "title": "Double Trouble",
+    "image": "/image/spyros/figures/doubleTrouble.png",
+    "elem": "Magie",
+    "elemImg": "/image/elements/magic.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/doubleTrouble.png"
+  },
+  {
+    "id": "3",
+    "title": "Wreking Ball",
+    "image": "/image/spyros/figures/wreakingBall.png",
+    "elem": "Magie",
+    "elemImg": "/image/elements/magic.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/wreakingBall.png"
+  },
+  {
+    "id": "4",
+    "title": "Voodood",
+    "image": "/image/spyros/figures/voodood.png",
+    "elem": "Magie",
+    "elemImg": "/image/elements/magic.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/voodood.png"
+  },
+  {
+    "id": "5",
+    "title": "Bash",
+    "image": "/image/spyros/figures/bash.png",
+    "elem": "Terre",
+    "elemImg": "/image/elements/heart.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/bash.png"
+  },
+  {
+    "id": "6",
+    "title": "Dino-Rang",
+    "image": "/image/spyros/figures/dinoRang.png",
+    "elem": "Terre",
+    "elemImg": "/image/elements/heart.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/dinoRang.png"
+  },
+  {
+    "id": "7",
+    "title": "Prism Break",
+    "image": "/image/spyros/figures/prismBreak.png",
+    "elem": "Terre",
+    "elemImg": "/image/elements/heart.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/prismBreak.png"
+  },
+  {
+    "id": "8",
+    "title": "Terrafin",
+    "image": "/image/spyros/figures/terrafin.png",
+    "elem": "Terre",
+    "elemImg": "/image/elements/heart.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/terrafin.png"
+  },
+  {
+    "id": "9",
+    "title": "Slam Bam",
+    "image": "/image/spyros/figures/slamBam.png",
+    "elem": "Eau",
+    "elemImg": "/image/elements/water.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/slamBam.png"
+  },
+  {
+    "id": "10",
     "title": "Zap",
     "image": "/image/spyros/figures/zap.png",
     "elem": "Eau",
@@ -10,7 +100,57 @@
     "card": "image/spyros/cards/zap.png"
   },
   {
-    "id": "2",
+    "id": "11",
+    "title": "Wham-Shell",
+    "image": "/image/spyros/figures/whamShell.png",
+    "elem": "Eau",
+    "elemImg": "/image/elements/water.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/whamShall.png"
+  },
+  {
+    "id": "12",
+    "title": "Gill-Grunt",
+    "image": "/image/spyros/figures/gillGrunt.png",
+    "elem": "Eau",
+    "elemImg": "/image/elements/water.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/gillGrunt.png"
+  },
+  {
+    "id": "13",
+    "title": "Ignitor",
+    "image": "/image/spyros/figures/ignitor.png",
+    "elem": "Feu",
+    "elemImg": "/image/elements/fire.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/ignitor.png"
+  },
+  {
+    "id": "14",
+    "title": "Sunburn",
+    "image": "/image/spyros/figures/sunburn.png",
+    "elem": "Feu",
+    "elemImg": "/image/elements/fire.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/sunburn.png"
+  },
+  {
+    "id": "15",
+    "title": "Flameslinger",
+    "image": "/image/spyros/figures/flameslinger.png",
+    "elem": "Feu",
+    "elemImg": "/image/elements/fire.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cardsflameslinger/.png"
+  },
+  {
+    "id": "16",
     "title": "Eruptor",
     "image": "/image/spyros/figures/eruptor.png",
     "elem": "Feu",
@@ -18,5 +158,165 @@
     "jeu": "Spyro's adventure",
     "jeuId": "spyros",
     "card": "image/spyros/cards/eruptor.png"
+  },
+  {
+    "id": "17",
+    "title": "Boomer",
+    "image": "/image/spyros/figures/boomer.png",
+    "elem": "Tech",
+    "elemImg": "/image/elements/tech.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cardsboomer/.png"
+  },
+  {
+    "id": "18",
+    "title": "Drill Sergeant",
+    "image": "/image/spyros/figures/drillSergeant.png",
+    "elem": "Tech",
+    "elemImg": "/image/elements/tech.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/drillSergeant.png"
+  },
+  {
+    "id": "19",
+    "title": "Drobot",
+    "image": "/image/spyros/figures/drobot.png",
+    "elem": "Tech",
+    "elemImg": "/image/elements/tech.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/drobot.png"
+  },
+  {
+    "id": "20",
+    "title": "Trigger Happy",
+    "image": "/image/spyros/figures/triggerHappy.png",
+    "elem": "Tech",
+    "elemImg": "/image/elements/tech.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/triggerHappy.png"
+  },
+  {
+    "id": "21",
+    "title": "Hex",
+    "image": "/image/spyros/figures/hex.png",
+    "elem": "Mort",
+    "elemImg": "/image/elements/dead.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/hex.png"
+  },
+  {
+    "id": "22",
+    "title": "Cynder",
+    "image": "/image/spyros/figures/cynder.png",
+    "elem": "Mort",
+    "elemImg": "/image/elements/dead.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/cynder.png"
+  },
+  {
+    "id": "23",
+    "title": "Chop-Chop",
+    "image": "/image/spyros/figures/chopChop.png",
+    "elem": "Mort",
+    "elemImg": "/image/elements/dead.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/chopChop.png"
+  },
+  {
+    "id": "24",
+    "title": "Ghost Roaster",
+    "image": "/image/spyros/figures/ghostRoaster.png",
+    "elem": "Mort",
+    "elemImg": "/image/elements/dead.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/ghostRoaster.png"
+  },
+  {
+    "id": "25",
+    "title": "Whirlwind",
+    "image": "/image/spyros/figures/whirlwind.png",
+    "elem": "Air",
+    "elemImg": "/image/elements/air.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/whirlwind.png"
+  },
+  {
+    "id": "26",
+    "title": "Warnado",
+    "image": "/image/spyros/figures/warnado.png",
+    "elem": "Air",
+    "elemImg": "/image/elements/air.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/warnado.png"
+  },
+  {
+    "id": "27",
+    "title": "Sonic Boom",
+    "image": "/image/spyros/figures/sonicBoom.png",
+    "elem": "Air",
+    "elemImg": "/image/elements/air.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/sonicBoom.png"
+  },
+  {
+    "id": "28",
+    "title": "Lightning Rod",
+    "image": "/image/spyros/figures/lightningRod.png",
+    "elem": "Air",
+    "elemImg": "/image/elements/air.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/lightningRod.png"
+  },
+  {
+    "id": "29",
+    "title": "Camo",
+    "image": "/image/spyros/figures/camo.png",
+    "elem": "Vie",
+    "elemImg": "/image/elements/life.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/camo.png"
+  },
+  {
+    "id": "30",
+    "title": "StumpSmash",
+    "image": "/image/spyros/figures/stumpSmash.png",
+    "elem": "Vie",
+    "elemImg": "/image/elements/life.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/stumpSmash.png"
+  },
+  {
+    "id": "31",
+    "title": "Zook",
+    "image": "/image/spyros/figures/zook.png",
+    "elem": "Vie",
+    "elemImg": "/image/elements/life.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cards/zook.png"
+  },
+  {
+    "id": "32",
+    "title": "Stealth Elf",
+    "image": "/image/spyros/figures/stealthElf.png",
+    "elem": "Vie",
+    "elemImg": "/image/elements/life.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "spyros",
+    "card": "image/spyros/cardsstealthElf/.png"
   }
 ]
