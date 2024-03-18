@@ -56,4 +56,16 @@
   font-family: "Roboto Slab", serif;
   display: flex;
   flex-direction: column;
+}
+
+.header img {
+  width: 75%;
+  margin: auto;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+
+.bartab {
+  width: -moz-fit-content;
+  width: fit-content;
 }/*# sourceMappingURL=Index.css.map */
