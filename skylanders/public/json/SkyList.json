@@ -6,7 +6,7 @@
     "elem": "Magie",
     "elemImg": "/image/elements/magic.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/spyro.png"
   },
   {
@@ -16,7 +16,7 @@
     "elem": "Magie",
     "elemImg": "/image/elements/magic.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/doubleTrouble.png"
   },
   {
@@ -26,7 +26,7 @@
     "elem": "Magie",
     "elemImg": "/image/elements/magic.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/wreakingBall.png"
   },
   {
@@ -36,7 +36,7 @@
     "elem": "Magie",
     "elemImg": "/image/elements/magic.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/voodood.png"
   },
   {
@@ -46,7 +46,7 @@
     "elem": "Terre",
     "elemImg": "/image/elements/heart.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/bash.png"
   },
   {
@@ -56,7 +56,7 @@
     "elem": "Terre",
     "elemImg": "/image/elements/heart.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/dinoRang.png"
   },
   {
@@ -66,7 +66,7 @@
     "elem": "Terre",
     "elemImg": "/image/elements/heart.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/prismBreak.png"
   },
   {
@@ -76,7 +76,7 @@
     "elem": "Terre",
     "elemImg": "/image/elements/heart.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/terrafin.png"
   },
   {
@@ -86,7 +86,7 @@
     "elem": "Eau",
     "elemImg": "/image/elements/water.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/slamBam.png"
   },
   {
@@ -96,7 +96,7 @@
     "elem": "Eau",
     "elemImg": "/image/elements/water.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/zap.png"
   },
   {
@@ -106,7 +106,7 @@
     "elem": "Eau",
     "elemImg": "/image/elements/water.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/whamShall.png"
   },
   {
@@ -116,7 +116,7 @@
     "elem": "Eau",
     "elemImg": "/image/elements/water.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/gillGrunt.png"
   },
   {
@@ -126,7 +126,7 @@
     "elem": "Feu",
     "elemImg": "/image/elements/fire.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/ignitor.png"
   },
   {
@@ -136,7 +136,7 @@
     "elem": "Feu",
     "elemImg": "/image/elements/fire.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/sunburn.png"
   },
   {
@@ -146,7 +146,7 @@
     "elem": "Feu",
     "elemImg": "/image/elements/fire.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cardsflameslinger/.png"
   },
   {
@@ -156,7 +156,7 @@
     "elem": "Feu",
     "elemImg": "/image/elements/fire.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/eruptor.png"
   },
   {
@@ -166,7 +166,7 @@
     "elem": "Tech",
     "elemImg": "/image/elements/tech.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cardsboomer/.png"
   },
   {
@@ -176,7 +176,7 @@
     "elem": "Tech",
     "elemImg": "/image/elements/tech.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/drillSergeant.png"
   },
   {
@@ -186,7 +186,7 @@
     "elem": "Tech",
     "elemImg": "/image/elements/tech.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/drobot.png"
   },
   {
@@ -196,7 +196,7 @@
     "elem": "Tech",
     "elemImg": "/image/elements/tech.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/triggerHappy.png"
   },
   {
@@ -206,7 +206,7 @@
     "elem": "Mort",
     "elemImg": "/image/elements/dead.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/hex.png"
   },
   {
@@ -216,7 +216,7 @@
     "elem": "Mort",
     "elemImg": "/image/elements/dead.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/cynder.png"
   },
   {
@@ -226,7 +226,7 @@
     "elem": "Mort",
     "elemImg": "/image/elements/dead.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/chopChop.png"
   },
   {
@@ -236,7 +236,7 @@
     "elem": "Mort",
     "elemImg": "/image/elements/dead.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/ghostRoaster.png"
   },
   {
@@ -246,7 +246,7 @@
     "elem": "Air",
     "elemImg": "/image/elements/air.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/whirlwind.png"
   },
   {
@@ -256,7 +256,7 @@
     "elem": "Air",
     "elemImg": "/image/elements/air.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/warnado.png"
   },
   {
@@ -266,7 +266,7 @@
     "elem": "Air",
     "elemImg": "/image/elements/air.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/sonicBoom.png"
   },
   {
@@ -276,7 +276,7 @@
     "elem": "Air",
     "elemImg": "/image/elements/air.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/lightningRod.png"
   },
   {
@@ -286,7 +286,7 @@
     "elem": "Vie",
     "elemImg": "/image/elements/life.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/camo.png"
   },
   {
@@ -296,7 +296,7 @@
     "elem": "Vie",
     "elemImg": "/image/elements/life.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/stumpSmash.png"
   },
   {
@@ -306,7 +306,7 @@
     "elem": "Vie",
     "elemImg": "/image/elements/life.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cards/zook.png"
   },
   {
@@ -316,7 +316,7 @@
     "elem": "Vie",
     "elemImg": "/image/elements/life.png",
     "jeu": "Spyro's adventure",
-    "jeuId": "spyros",
+    "jeuId": "Spyros",
     "card": "image/spyros/cardsstealthElf/.png"
   }
 ]
