@@ -3,6 +3,13 @@ import Select from "react-select";
 
 const options = [
   {
+    label: "Status",
+    options: [
+      { value: "isInCollection", label: "Dans la collection" },
+      { value: "isNotInCollection", label: "Hors collection" },
+    ],
+  },
+  {
     label: "Jeu",
     options: [
       { value: "Spyros", label: "Spyro's Adventure" },
@@ -24,13 +31,6 @@ const options = [
       { value: "Tech", label: "Tech" },
       { value: "Lumière", label: "Lumière" },
       { value: "Obscurité", label: "Obscurité" },
-    ],
-  },
-  {
-    label: "Status",
-    options: [
-      { Value: true, label: "Dans la collection" },
-      { value: false, label: "Hors collection" },
     ],
   },
 ];
