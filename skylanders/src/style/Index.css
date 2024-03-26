@@ -17,6 +17,9 @@
 .all_cards .Spyros {
   border: 3px solid green;
 }
+.all_cards .Giants {
+  border: 3px solid orange;
+}
 .all_cards .card {
   margin-left: 1%;
   margin-right: 1%;
