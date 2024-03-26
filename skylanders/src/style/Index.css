@@ -3,6 +3,12 @@
   display: none;
 }
 
+#wishH1 {
+  text-align: center;
+  font-family: "Madimi One", sans-serif;
+  font-size: xx-large;
+}
+
 .all_cards {
   display: flex;
   justify-content: center;
@@ -12,7 +18,10 @@
   border: 3px solid green;
 }
 .all_cards .card {
-  margin: 5%;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 4%;
+  margin-bottom: 4%;
   border-radius: 5px;
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.66);
   height: 20vh;
@@ -40,11 +49,15 @@
 }
 .all_cards .card .text .headCard .check {
   display: flex;
+  flex-direction: column;
   padding: 2%;
   margin: 2%;
 }
-.all_cards .card .text .headCard .check .heart {
-  padding: 5%;
+.all_cards .card .text .headCard .check .heartIcon {
+  margin: auto;
+}
+.all_cards .card .text .headCard .check .checkbox {
+  margin: auto;
 }
 .all_cards .card .text .info {
   display: flex;
@@ -52,8 +65,7 @@
   align-items: flex-end;
 }
 .all_cards .card .text .info img {
-  height: -moz-fit-content;
-  height: fit-content;
+  width: 22%;
   margin: 0;
 }
 .all_cards .card .text .info .elemImg {

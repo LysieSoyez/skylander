@@ -72,11 +72,13 @@ export default function Card() {
                 <div className="check">
                   {isInWishList ? (
                     <GoHeartFill
+                      size="1.5em"
                       className="heartIcon"
                       onClick={() => handleHeartButton(skylanders.id)}
                     />
                   ) : (
                     <GoHeart
+                      size="1.5em"
                       className="heartIcon"
                       onClick={() => handleHeartButton(skylanders.id)}
                     />
@@ -85,6 +87,7 @@ export default function Card() {
                     size="lg"
                     padding="5px"
                     id={`checkbox-${skylanders.id}`}
+                    className="checkbox"
                     isChecked={isInCollection}
                     onChange={() => handleCheckboxChange(skylanders.id)}
                   />

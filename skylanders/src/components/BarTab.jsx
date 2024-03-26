@@ -6,7 +6,7 @@ function BarTab() {
   return (
     <div className="barTab">
       <Tabs isFitted variant="enclosed">
-        <TabList mb="1em">
+        <TabList mb="1em" fontFamily="Madimi One">
           <Tab>All Skylanders</Tab>
           <Tab>Wishlist</Tab>
         </TabList>

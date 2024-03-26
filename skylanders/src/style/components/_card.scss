@@ -6,7 +6,10 @@
     border: 3px solid green;
   }
   .card {
-    margin: 5%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 4%;
+    margin-bottom: 4%;
     border-radius: 5px;
     box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.66);
     height: 20vh;
@@ -31,10 +34,14 @@
         }
         .check {
           display: flex;
+          flex-direction: column;
           padding: 2%;
           margin: 2%;
-          .heart {
-            padding: 5%;
+          .heartIcon {
+            margin: auto;
+          }
+          .checkbox {
+            margin: auto;
           }
         }
       }
@@ -43,7 +50,7 @@
         justify-content: space-between;
         align-items: flex-end;
         img {
-          height: fit-content;
+          width: 22%;
           margin: 0;
         }
         .elemImg {
