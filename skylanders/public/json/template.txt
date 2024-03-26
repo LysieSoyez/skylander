@@ -9,3 +9,13 @@
     "jeuId": "spyros",
     "card": "image/spyros/cards/.png"
   }
+
+  {
+    "id": "2.",
+    "title": "",
+    "image": "/image/giants/figures/.png",
+    "elem": "",
+    "elemImg": "/image/elements/.png",
+    "jeu": "Giants",
+    "jeuId": "Giants"
+  }
