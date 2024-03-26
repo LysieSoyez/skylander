@@ -320,6 +320,114 @@
     "card": "image/spyros/cardsstealthElf/.png"
   },
   {
+    "id": "1.1.1",
+    "title": "Crypte Noire",
+    "image": "/image/spyros/figures/darklightCrypt.png",
+    "elem": "Niveau",
+    "elemImg": "/image/elements/level.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
+    "id": "1.1.2",
+    "title": "Pic Du Dragon",
+    "image": "/image/spyros/figures/dragonPeak.png",
+    "elem": "Niveau",
+    "elemImg": "/image/elements/level.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
+    "id": "1.1.3",
+    "title": "Empire Glacée",
+    "image": "/image/spyros/figures/empireOfIce.png",
+    "elem": "Niveau",
+    "elemImg": "/image/elements/level.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
+    "id": "1.1.4",
+    "title": "Mer Pirate",
+    "image": "/image/spyros/figures/pirateSeas.png",
+    "elem": "Niveau",
+    "elemImg": "/image/elements/level.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
+    "id": "1.2.1",
+    "title": "Elixir De Santé",
+    "image": "/image/spyros/figures/healingElixir.png",
+    "elem": "Objet",
+    "elemImg": "/image/elements/item.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
+    "id": "1.2.2",
+    "title": "Trésor Caché",
+    "image": "/image/spyros/figures/hiddenTreasure.png",
+    "elem": "Objet",
+    "elemImg": "/image/elements/item.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
+    "id": "1.2.3",
+    "title": "Epée Fantôme",
+    "image": "/image/spyros/figures/pirateSwords.png",
+    "elem": "Objet",
+    "elemImg": "/image/elements/item.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
+    "id": "1.2.4",
+    "title": "Enclume De Pluie",
+    "image": "/image/spyros/figures/anvilRain.png",
+    "elem": "Objet",
+    "elemImg": "/image/elements/item.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
+    "id": "1.2.5",
+    "title": "Bouclier d'Acier-Sky",
+    "image": "/image/spyros/figures/skyIronShield.png",
+    "elem": "Objet",
+    "elemImg": "/image/elements/item.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
+    "id": "1.2.6",
+    "title": "Sparx La Libellule",
+    "image": "/image/spyros/figures/sparxDragonfly.png",
+    "elem": "Objet",
+    "elemImg": "/image/elements/item.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
+    "id": "1.2.7",
+    "title": "Sablier Du Temps",
+    "image": "/image/spyros/figures/timeTwister.png",
+    "elem": "Objet",
+    "elemImg": "/image/elements/item.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
+    "id": "1.2.8",
+    "title": "Bottes Ailées",
+    "image": "/image/spyros/figures/wingedBoots.png",
+    "elem": "Objet",
+    "elemImg": "/image/elements/item.png",
+    "jeu": "Spyro's adventure",
+    "jeuId": "Spyros"
+  },
+  {
     "id": "2.1",
     "title": "Thumpback",
     "image": "/image/giants/figures/thumpBack.png",
@@ -676,6 +784,33 @@
     "image": "/image/giants/figures/jetVac.png",
     "elem": "Air",
     "elemImg": "/image/elements/air.png",
+    "jeu": "Giants",
+    "jeuId": "Giants"
+  },
+  {
+    "id": "1.2.1",
+    "title": "Catapulte Scorpion Stiker",
+    "image": "/image/giants/figures/catapulte.png",
+    "elem": "Objet",
+    "elemImg": "/image/elements/item.png",
+    "jeu": "Giants",
+    "jeuId": "Giants"
+  },
+  {
+    "id": "1.2.2",
+    "title": "Canon Dragonfire",
+    "image": "/image/giants/figures/canon.png",
+    "elem": "Objet",
+    "elemImg": "/image/elements/item.png",
+    "jeu": "Giants",
+    "jeuId": "Giants"
+  },
+  {
+    "id": "1.2.3",
+    "title": "Tresor Caché Platine",
+    "image": "/image/giants/figures/coffre.png",
+    "elem": "Objet",
+    "elemImg": "/image/elements/item.png",
     "jeu": "Giants",
     "jeuId": "Giants"
   }

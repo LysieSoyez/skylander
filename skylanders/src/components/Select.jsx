@@ -33,6 +33,13 @@ const options = [
       { value: "Obscurité", label: "Obscurité" },
     ],
   },
+  {
+    label: "Autre",
+    options: [
+      { value: "Niveau", label: "Niveau" },
+      { value: "Objet", label: "Objet" },
+    ],
+  },
 ];
 
 export default function CustomSelect() {
